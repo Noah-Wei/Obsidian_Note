@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1e895d269e9160a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b235afd46203f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d05473502c88aa8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8fb506d4ca16ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "900de769c86c4e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc83971194211d3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aafdf6ed6111e738",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7dba9f20b861b8ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "6655c2cfb60ade05",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c3adc5c496b3e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37ad0c0085c16c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "支持文章互联.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "支持文章互联 的反向链接列表"
+            }
+          },
+          {
+            "id": "ff5180d893c930f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "支持文章互联.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "支持文章互联 的出链列表"
+            }
+          },
+          {
+            "id": "cd01996a9bc759df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c766b77275f0505c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "支持文章互联.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "支持文章互联 的大纲"
+            }
+          },
+          {
+            "id": "c84c3d3f2b4d2169",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3d05473502c88aa8",
+  "lastOpenFiles": [
+    "03_Oracle/03_01_函数/03_01_02_数值函数/TRUNC 函数.md",
+    "03_Oracle/03_01_函数/03_01_02_数值函数/ROUND 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/TRANSLATE 函数.md",
+    "03_Oracle/03_01_函数/03_01_02_数值函数/LEAST 函数.md",
+    "03_Oracle/03_01_函数/03_01_02_数值函数/Untitled.md",
+    "03_Oracle/03_01_函数/03_01_02_数值函数",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/LPAD 和 RPAD 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/TRIM、LTRIM 和 RTRIM 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/Untitled.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/CHR 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/ASCII 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/REPLACE 函数.md",
+    "Untitled.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/LENGTH 函数.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数/SUBSTR 函数.md",
+    "01_问题收录/DOCKER问题汇总.md",
+    "03_Oracle/03_01_函数/03_01_01_字符函数",
+    "03_Oracle/03_01_函数",
+    "03_Oracle",
+    "02_教程/Docker安装Oracle11G.md",
+    "02_教程/VScode使用Git.md",
+    "02_教程/V2ray搭建教程.md",
+    "99_Demo/OKR.md",
+    "02_教程/徽章制作.md",
+    "02_教程",
+    "Demo 1/Typora支持文章互联.md",
+    "Demo 1/OKR.md",
+    "Demo 1/Demo.md",
+    "Demo 1",
+    "01_问题收录",
+    "99_Demo/Typora支持文章互联.md",
+    "99_Demo/Demo.md",
+    "11_软件工程：第十一章 面向对象实现.md",
+    "未命名.canvas",
+    "1.html",
+    "99_Demo",
+    "00_Template",
+    "Pasted image 20250409161417.png",
+    "Pasted image 20250409161415.png",
+    "Pasted image 20250409161457.png",
+    "Pasted image 20250409151310.png",
+    "Pasted image 20250409151242.png"
+  ]
+}
